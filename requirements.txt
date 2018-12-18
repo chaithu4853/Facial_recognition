@@ -1,2 +1,8 @@
 firstly download python version 2.7 .
-#install cv2 
+install cv2 in the python scripts(for eg:  C:\Python27\Scripts)
+install face_recognition by using "pip install face_recognition"
+later check in python idle with  >>import cv2 and >>import face_recognition
+if you are successful then ok
+unless you didn't install cv2 and face_recognition properly
+good luck and look at ur smiley faces on screen
+do with passion ,it will work completely
