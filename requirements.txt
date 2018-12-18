@@ -1,0 +1,2 @@
+firstly download python version 2.7 .
+#install cv2 
